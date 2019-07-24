@@ -43,6 +43,6 @@ img{
   <img src="http://www.piano-keyboard-guide.com/wp-content/uploads/2015/05/sharp-sign-and-flat-sign.png"><br>
   <p> Sharps and Flats are used in readng all music.<br> The sharps make the note higher and the flats make the note lower</p>
    <img src="https://media.istockphoto.com/vectors/music-notes-symbols-set-vector-id896381062?k=6&m=896381062&s=612x612&w=0&h=zWp-1SiSwPT7MrrwDGuwFmTdn6zdBIBJWwwt9BCdimE="> <br>
-   <p>The first symbol as you know is a treble clef. The second is an sixteenth note.<br> The third is an eighth note. The fourth is </p>
+   <p>The first symbol as you know is a treble clef. The second is a sixteenth note beam.<br> The third is a eighth note beam. The fourth is a quarter note it is worth one count.<br> the Fighth is a eighth not. the sixth is the sixteenth note. the seventh is a 32nd note.<br>The next note is a half note it is worth 2 beats. the last one is a whole note, it is worth 4 beats or counts.  </p>
   </body>
 </html>
